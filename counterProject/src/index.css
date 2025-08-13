@@ -1,0 +1,12 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.card{
+  height: 800px;
+  width:  500px;
+  background-color: yellow;
+  border: 2 px solid black;
+}
