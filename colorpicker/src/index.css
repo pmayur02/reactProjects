@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(0, 19%, 72%);
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    padding-top: 40px;
+    align-items:center;
+    background-color: transparent;
+    height: 350px;
+    width: 400px;
+}
+
+.colorDisplay{
+    height: 60%;
+    width: 80%;
+    margin-bottom: 20px;
+}
+
+.inputField{
+    width: 70%;
+}
+
+.heading{
+    padding-bottom: 10px;
+}
+
+.selectHeader{
+    padding-bottom: 10px;
+}
+
+
+
