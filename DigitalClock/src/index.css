@@ -1,0 +1,21 @@
+body{
+ background-image: url("DigitalClock/img.jpg");
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-attachment: fixed;
+ min-height: 100vh;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ backdrop-filter: blur(2px);
+}
+
+
+.clock{
+  color:antiquewhite;
+  font-size: 90px;
+  font-weight: bold;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  text-shadow: 3px 3px 5px black;
+}
