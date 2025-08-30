@@ -1,0 +1,35 @@
+
+
+.navbar{
+    height: 5rem;
+    width: 100vw;
+     min-width: 70rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 3rem;
+}
+
+.navdetailsitems{
+    margin:1.2rem;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.loginBtn{
+    background-color: #000;
+    color: white;
+    height: 80%;
+    width: 6rem;
+    border-radius: 20rem;
+    cursor: pointer;
+}
+
+.navdetailsitems:hover{
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid black;
+}
+
+.logo{
+    height:100%;
+}
